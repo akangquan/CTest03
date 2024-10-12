@@ -1,6 +1,8 @@
-阿打发
-阿打发
 
+int hello()
+{
+    printf("Hello,");
 
-
-阿第三方
+    printf("%d",add(5,9));
+    printf("OK123");
+}
